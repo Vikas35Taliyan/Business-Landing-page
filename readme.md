@@ -7,6 +7,7 @@
 ![Thanks](https://img.shields.io/badge/Thanks-Inueron-blue)
 
 # Business Landing page
+[Netlify](https://business-project-c23bc5.netlify.app/)
 
 > Project 12
 
