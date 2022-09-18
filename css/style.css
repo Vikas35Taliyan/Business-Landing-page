@@ -310,10 +310,9 @@ body {
   font-size: 15px;
 }
 
-
-@media only screen and (max-width: 740px){
+@media only screen and (max-width: 740px) {
   .container {
-        background-color: #ffffff;
+    background-color: #ffffff;
   }
   .nav-items {
     display: none;
@@ -326,11 +325,11 @@ body {
     color: #000000;
   }
   .hero {
-  grid-template-columns: 1fr;
-  margin-left: 4rem;
-  align-items: center;
-  justify-content: center;
-  justify-items: center;
+    grid-template-columns: 1fr;
+    margin-left: 4rem;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
   }
   .hero-left img {
     display: flex;
@@ -362,8 +361,8 @@ body {
     margin-right: 22rem;
   }
   .service-card .card-image img {
-    width: 80vw;
-
+    width: 70vw;
+    margin-left: -5rem;
   }
   .service-card {
     display: grid;
@@ -376,9 +375,9 @@ body {
   .creative {
     display: grid;
     grid-template-columns: 1fr;
-      grid-gap: 3rem;
-      margin-top: 3rem;
-      justify-content: center;
+    grid-gap: 3rem;
+    margin-top: 3rem;
+    justify-content: center;
   }
   .creative-paragraph {
     display: flex;
