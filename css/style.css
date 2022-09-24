@@ -338,13 +338,16 @@ body {
     justify-content: center;
     height: 24rem;
     width: 90vw;
-    margin-left: 0px;
+    margin-left: -62px;
   }
   .project-section {
     display: grid;
     grid-template-columns: 1fr;
     justify-content: end;
     text-align: center;
+  }
+  .hero-right form input {
+    width: 165px;
   }
   .project-data {
     display: grid;
